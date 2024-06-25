@@ -46,6 +46,8 @@ nav .logo{
 nav .logo img{
     width: 30px;
     height: 30px;
+    border-radius: 40px;
+    border: 1px solid transparent;
 }
 
 nav .logo a{
