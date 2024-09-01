@@ -7,6 +7,22 @@
     font-family: "Inter", sans-serif;
 }
 
+.contact-me {
+    text-align: center;
+}
+
+.contact-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.contact-info {
+    margin-top: 20px;
+}
+
 a{
     text-decoration: none;
 }
